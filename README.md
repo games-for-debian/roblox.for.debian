@@ -1,2 +1,1 @@
-# roblox.for.debian
-read da README.md file
+So the tutorial to install it is by installing the zip file, and then open it and you will see file.1.deb and file.2.deb, the first thing is to run file.1.deb (it will reboot your pc) then you should log in and open file.2.deb and boom its fixed
